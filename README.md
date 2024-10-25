@@ -1,5 +1,6 @@
 # Employee Performance and Metrics Dashboard - Power BI
 
+
 This repository contains a **Power BI Dashboard** that provides insights into employee performance, work habits, and departmental statistics. The dashboard focuses on visualizing key metrics across various departments and employee demographics. Below is a breakdown of the features and insights available in the dashboard:
 
 ### Key Metrics and Visualizations
